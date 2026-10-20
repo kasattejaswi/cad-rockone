@@ -9,6 +9,9 @@
 *.iges
 __pycache__/
 
+# FEM solver working directories (regenerable raw output)
+CalculiX/
+
 # Python
 *.pyc
 *.pyo
