@@ -1,8 +1,6 @@
-# FreeCAD
+# FreeCAD (track *.FCStd via LFS; ignore backups and recovery files)
 *.FCStd1
-*.FCStd
 *.FCBak
-*.fcstd
 *.fcbak
 *.brep
 *.step
