@@ -11,6 +11,7 @@ __pycache__/
 
 # FEM solver working directories (regenerable raw output)
 CalculiX/
+FEMMesh/
 
 # Python
 *.pyc
