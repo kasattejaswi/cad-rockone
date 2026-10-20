@@ -1,0 +1,39 @@
+# FreeCAD
+*.FCStd1
+*.FCStd
+*.FCBak
+*.fcstd
+*.fcbak
+*.brep
+*.step
+*.stp
+*.igs
+*.iges
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+__pycache__
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local overrides
+.local/
+.env
+
+# Temporary
+*.tmp
+*.temp
