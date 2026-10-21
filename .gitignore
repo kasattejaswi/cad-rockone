@@ -41,3 +41,10 @@ Thumbs.db
 # Temporary
 *.tmp
 *.temp
+
+# CFD mesher and solver working directories (regenerable from cfdOF analysis documents)
+meshCase/
+case/
+log.*
+postProcessing/
+processor[0-9]*/
